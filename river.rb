@@ -1,1 +1,2 @@
 # river.rb
+class River
